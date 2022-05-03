@@ -43,7 +43,7 @@ De waarde van name is Henk.
 
 Roep alle methodes aan van uit de main methode en verander de waardes en kijk wat er uitkomt als je de waardes aanpast en opnieuw draait. 
 
-![Drinks](./assets/drinks.JPG)
+![Drinks](./assets/drinks.jpg)
 
 
 ## Randvoorwaarden
