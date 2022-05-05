@@ -22,12 +22,12 @@ Maak in het nieuwe Java project dat je hebt gemaakt een main klasse en een `publ
 - positiveOrNegative(int number)
 - postiveOrZeroOrNegativ(int number)
 - bartender(String name)
-- sum(int number1, int number2)
+- sum(int input1, int input2)
 
 Maak de volgende variabelen aan in de main methode:
 - int number
-- int number1
-- int number2
+- int input1
+- int input2
 - String name
 
 Het gedrag van de methoden is als volgt: 
@@ -38,8 +38,8 @@ Het gedrag van de methoden is als volgt:
 - De sum-methode print de uitkomst van de twee nummers die bij elkaar zijn opgeteld.
 
 De waarde van number is 6.
-De waarde van number1 is 4.
-De waarde van number2 is 20.
+De waarde van input1 is 4.
+De waarde van input2 is 20.
 De waarde van name is Henk.
 
 Roep alle methodes aan vanuit de main methode, verander de waardes en kijk wat eruit komt als je de waardes aanpast en opnieuw draait. 
@@ -62,30 +62,30 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 
 1. Maak een nieuw project aan in IntelliJ.
 
-2. Maak een nieuwe klasse aan genaamd  'main'. Doe dit door met de rechter muisknop op de map 'SRC' te klikken, vervolgens klik je op 'New' en dan op 'Java klasse'. 
+2. Maak een nieuwe klasse aan genaamd  'Main'. Doe dit door met de rechter muisknop op de map 'SRC' te klikken, vervolgens klik je op 'New' en dan op 'Java class'. 
 
-3. Maak een `static void main` methode aan.
+3. Maak een `public static void main` methode aan.
 
-4. Maak in de `static void main` methode de variabelen aan die hierboven genoemd zijn met de juiste waarden. 
+4. Maak in de `public static void main` methode de variabelen aan die hierboven genoemd zijn met de juiste waarden. 
 
-5. Maak na de `}` van de `static void main` methode een nieuwe static void methode met de naam 'hello'. Laat deze methode een regel printen door System.out.println te gebruiken. Kijk hierboven voor de juiste tekst. Deze methode krijgt geen variabelen mee gestuurd. 
+5. Maak na de `}` van de `public static void main` methode een nieuwe public static void methode met de naam 'hello'. Laat deze methode een regel printen door System.out.println te gebruiken. Kijk hierboven voor de juiste tekst. Deze methode krijgt geen variabelen mee gestuurd. 
 
-6. Roep de `hello` methode aan in de `static void main` methode. Laat nu de applicatie draaien door op de play-knop in de goot van IntelliJ te drukken.
+6. Roep de `hello` methode aan in de `public static void main` methode. Laat nu de applicatie draaien door op de play-knop in de goot van IntelliJ te drukken.
 
-7. Maak een static void mehode aan met de naam 'positiveOrNegative' en geef deze de juiste parameters mee. Zet in deze methode een `if else` statement. De voorwaarde van de if is (number > 0). Bij de if moet de methode de tekst: "This number is positive!" printen. Bij de else mag de tekst: "This number is negative!".
+7. Maak een public static void mehode aan met de naam 'positiveOrNegative' en geef deze de juiste parameters mee. Zet in deze methode een `if else` statement. De voorwaarde van de if is (number > 0). Bij de if moet de methode de tekst: "This number is positive!" printen. Bij de else mag de tekst: "This number is negative!".
 
-8. Roep deze methode aan in de `static void main` methode en geef de juiste parameter mee. Laat de applicatie weer draaien door op de play-knop te drukken. 
+8. Roep deze methode aan in de `public static void main` methode en geef het juiste argument mee. Laat de applicatie weer draaien door op de play-knop te drukken. 
 
 9. Verander de waarde van number naar -6 en draai de applicatie opnieuw. Wat is er nu veranderd? En wat als het number de waarde 0 heeft? Klopt dit?
 
-10. Maak een nieuwe static void methode aan genaamd 'positiveOrZeroOrNegative' en geef deze de juiste attributen mee. Plaats in deze methode een `if else if else` statement. Deze lijkt veel op de if else statement van positiveOrNegative methode, echter staat er tussen de if en de else nog een else if met de volgende voorwaarde: (number == 0) {System.out.println("This number is zero!}. 
+10. Maak een nieuwe public static void methode aan genaamd 'positiveOrZeroOrNegative' en geef deze de juiste attributen mee. Plaats in deze methode een `if else if else` statement. Deze lijkt veel op de if else statement van positiveOrNegative methode, echter staat er tussen de if en de else nog een else if met de volgende voorwaarde: (number == 0) {System.out.println("This number is zero!}. 
 
-11. Roep ook deze methode aan vanuit de `static void main` methode en geef ook hier de juiste variabele aan mee.
+11. Roep ook deze methode aan vanuit de `public static void main` methode en geef ook hier de juiste argument aan mee.
 
-11. Maak een nieuwe static void methode genaamd bartender en geef deze de juiste parameter mee. Gebruik in deze methode de switch methode om aan de hand van de string name het drankje van verschillende personen te printen. 
+12. Maak een nieuwe public static void methode genaamd bartender en geef deze de juiste parameter mee. Gebruik in deze methode de switch methode om aan de hand van de string name het drankje van verschillende personen te printen. 
 
-12. Roep ook deze methode aan vanuit de `static void main` methode en speel met verschillende namen die je in de switch cases hebt gezet. 
+13. Roep ook deze methode aan vanuit de `public static void main` methode en speel met verschillende namen die je in de switch cases hebt gezet. 
 
-13. Maak nog een static void methode aan genaamd 'sum' en geef deze de juiste variabelen mee. Laat deze methode de volgende tekst printen: "number1 summed by number2 = 24".
+14. Maak nog een public static void methode aan genaamd 'sum' en geef deze de juiste parameters mee. Laat deze methode de volgende tekst printen: "input1 summed by input2 = 24".
 
-14. Roep deze methode ook aan in de `static void main` methode en speel met verschillende waardes.
+15. Roep deze methode ook aan in de `public static void main` methode en speel met verschillende waardes.
