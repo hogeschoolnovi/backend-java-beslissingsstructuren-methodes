@@ -2,6 +2,7 @@
 
 Voor deze opdrachten zul je methodes met parameters moeten schrijven.
 In elke methode kun je vervolgens met if-statements de opdracht uitvoeren.
+Je mag de methodes in de _Ifelse_ klasse schrijven.
 
 ### Opdracht 1: Even/Odd Checker
 
