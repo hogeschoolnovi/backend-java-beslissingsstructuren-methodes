@@ -36,3 +36,4 @@ De lijst van integers: [17, 92, 3, 89, 55, 86, 24, 34, 67, 76, 81, 50, 59, 30, 1
  etc..
 ```
 
+Maak jou uitwerkingen in de _"Loops"_ klasse.
