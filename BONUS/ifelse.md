@@ -27,6 +27,10 @@ Schrijf een methode dat een tekst accepteert en controleert of de lengte van de 
 ### Opdracht 7: Jaar Checker
 Schrijf een methode die controleert of een gegeven jaartal een schrikkeljaar is of niet.
 
+(
+Het is een schrikkeljaar wanneer deze deelbaar is door 4, maar een eeuwjaar (100 jaar) die deelbaar is door 4 weer niet, met uitzondering als deze wel deelbaar is door 400. bron: https://berekenenonline.nl/schrikkeljaar/ 
+)
+
 ### Opdracht 8: Grootste van Drie Getallen
 Schrijf een programma dat de grootste van drie ingevoerde getallen bepaalt.
 
