@@ -19,7 +19,7 @@ Schrijf een programma dat de grootste van twee ingevoerde getallen bepaalt.
 Schrijf een methode dat een getal van de gebruiker accepteert en aangeeft of het positief, negatief of nul is.
 
 ### Opdracht 5: Leeftijdsclassificatie
-Schrijf een methode dat de leeftijd van een persoon accepteert en bepaalt of die persoon een kind, tiener, volwassene of senior is.
+Schrijf een methode dat de leeftijd van een persoon accepteert en bepaalt of die persoon een kind, puber, volwassene of senior is.
 
 ### Opdracht 6: Tekstlengte Checker
 Schrijf een methode dat een tekst accepteert en controleert of de lengte van de tekst "kort" (korter dan 10 tekens), "middellang" (tussen 10 en 20 tekens) of "lang"(langer dan 20 tekens) is.
