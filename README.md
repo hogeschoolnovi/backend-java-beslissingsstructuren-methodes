@@ -89,3 +89,12 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 14. Maak nog een `public static void` methode aan genaamd `sum` en geef deze de juiste _parameters_ mee. Laat deze methode de volgende tekst printen: "input1 summed by input2 = 24".
 
 15. Roep deze methode ook aan in de `public static void main` methode en speel met verschillende waardes.
+
+## Bonus
+
+Is het je gelukt om deze opdracht te maken en wil je nog meer oefenen? 
+In de "Bonus" map op deze repository staan 2 sets met opdrachten, 1 met if/else/switch opdrachten en 1 met for/while opdrachten. 
+Deze opdrachten mag je proberen te maken ter oefening. 
+Je kunt zelf natuurlijk ook scenario's bedenken zoals in deze opdrachtjes staan beschreven en daar een oplossing voor proberen te programmeren. 
+
+Lukt het nog niet helemaal om deze opdrachten te maken? Laat ze dan nog  even liggen en kom er later op terug.
