@@ -97,4 +97,4 @@ In de "Bonus" map op deze repository staan 2 sets met opdrachten, 1 met if/else/
 Deze opdrachten mag je proberen te maken ter oefening. 
 Je kunt zelf natuurlijk ook scenario's bedenken zoals in deze opdrachtjes staan beschreven en daar een oplossing voor proberen te programmeren. 
 
-Lukt het nog niet helemaal om deze opdrachten te maken? Laat ze dan nog  even liggen en kom er later op terug.
+Lukt het nog niet helemaal om deze bonusopdrachten te maken? Laat ze dan nog  even liggen en kom er later op terug.
