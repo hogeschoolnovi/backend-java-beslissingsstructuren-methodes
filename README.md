@@ -82,7 +82,7 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 
 11. Roep ook deze methode aan vanuit de `public static void main` methode en geef ook hier de juiste _argument_ aan mee.
 
-12. Maak een nieuwe `public static void` methode genaamd `bartender` en geef deze de juiste _parameter_ mee. Gebruik in deze methode de _switch_ methode om aan de hand van de `string name` het drankje van verschillende personen te printen. 
+12. Maak een nieuwe `public static void` methode genaamd `bartender` en geef deze de juiste _parameter_ mee. Gebruik in deze methode de _switch_ statement om aan de hand van de `string name` het drankje van verschillende personen te printen. De uitkomst moet er uit zien als "Henk wants a Bacardi cola". Denk er ook over na wat er gebeurt als de parameter een naam ontvangt waar je geen switch case voor hebt geschreven.
 
 13. Roep ook deze methode aan vanuit de `public static void main` methode en speel met verschillende namen die je in de _ switch_ cases hebt gezet. 
 
